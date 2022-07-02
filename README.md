@@ -2,7 +2,7 @@
 
 ## Base branch
 
-> The [branch](#branch) into which changes are combined when you [merge](#merge) a pull request. When you create a pull request, you can change the base branch from the repository's default branch to another branch if required.
+> The [branch](#branch) into which changes are combined when you [merge](#merge) a [pull request](#pull-request). When you create a pull request, you can change the base branch from the repository's default branch to another branch if required.
 
 ## Branch
 
@@ -18,7 +18,7 @@
 
 ## Default branch
 
-> The [base branch](#base-branch) for new pull requests and code commits in a repository. Each repository has at least one branch, which Git creates when you initialize the repository. The first branch is usually called main, and is often the default branch.
+> The [base branch](#base-branch) for new [pull requests](#pull-request) and code commits in a repository. Each repository has at least one branch, which Git creates when you initialize the repository. The first branch is usually called main, and is often the default branch.
 
 ## Merge
 
